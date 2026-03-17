@@ -1,0 +1,168 @@
+記錄時間 - 22/01/18, 12:31:10 
+處理程序: (frmXXLogin_Label4_Click)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionWrite (send()).]一般網路錯誤。 查閱您的網路文件。
+
+記錄時間 - 22/01/18, 12:31:13 
+處理程序: (WriteIDMenuLog)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionWrite (send()).]一般網路錯誤。 查閱您的網路文件。
+
+記錄時間 - 23/03/17, 19:11:21 
+處理程序: (WriteIDMenuLog)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionWrite (send()).]一般網路錯誤。 查閱您的網路文件。
+
+記錄時間 - 23/04/27, 19:20:25 
+處理程序: (WriteIDMenuLog)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionWrite (send()).]一般網路錯誤。 查閱您的網路文件。
+
+記錄時間 - 23/07/30, 14:11:46 
+處理程序: (ConnectADO:Provider=SQLOLEDB;Data Source=192.168.1.101;Initial Catalog=BK35MENU;User ID=idsa;Password=1111)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒絕存取。
+
+記錄時間 - 23/07/30, 14:12:11 
+處理程序: (ConnectADO:Provider=SQLOLEDB;Data Source=192.168.1.101;Initial Catalog=BK35MENU;User ID=idsa;Password=1111)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒絕存取。
+
+記錄時間 - 23/07/30, 14:13:21 
+處理程序: (ConnectADO:Provider=SQLOLEDB;Data Source=192.168.1.101;Initial Catalog=BK35MENU;User ID=idsa;Password=1111)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒絕存取。
+
+記錄時間 - 23/07/30, 14:14:41 
+處理程序: (ConnectADO:Provider=SQLOLEDB;Data Source=192.168.1.101;Initial Catalog=BK35MENU;User ID=idsa;Password=1111)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒絕存取。
+
+記錄時間 - 23/09/03, 13:06:33 
+處理程序: (WriteIDMenuLog)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionWrite (send()).]一般網路錯誤。 查閱您的網路文件。
+
+記錄時間 - 24/05/06, 16:34:16 
+處理程序: (ConnectADO:Provider=SQLOLEDB;Data Source=192.168.1.101;Initial Catalog=BK35MENU;User ID=idsa;Password=1111)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒絕存取。
+
+記錄時間 - 24/07/02, 12:16:43 
+處理程序: (getParamValue)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionWrite (send()).]一般網路錯誤。 查閱您的網路文件。
+
+記錄時間 - 24/07/02, 12:16:43 
+處理程序: (frmMain_InitMENU)
+執行錯誤, 代碼:  3704
+訊息: 
+     當物件關閉時，不允許操作。
+
+記錄時間 - 24/09/01, 15:08:30 
+處理程序: (WriteIDMenuLog)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionWrite (send()).]一般網路錯誤。 查閱您的網路文件。
+
+記錄時間 - 24/09/25, 11:33:39 
+處理程序: (WriteIDMenuLog)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionWrite (send()).]一般網路錯誤。 查閱您的網路文件。
+
+記錄時間 - 24/10/07, 16:35:04 
+處理程序: (WriteIDMenuLog)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionWrite (send()).]一般網路錯誤。 查閱您的網路文件。
+
+記錄時間 - 25/03/06, 14:35:50 
+處理程序: (WriteIDMenuLog)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionWrite (send()).]一般網路錯誤。 查閱您的網路文件。
+
+記錄時間 - 25/03/06, 14:36:55 
+處理程序: (ConnectADO:Provider=SQLOLEDB;Data Source=192.168.1.101;Initial Catalog=BK35MENU;User ID=idsa;Password=1111)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒絕存取。
+
+記錄時間 - 25/06/04, 15:06:00 
+處理程序: (ConnectADO:Provider=SQLOLEDB;Data Source=192.168.1.101;Initial Catalog=BK35MENU;User ID=idsa;Password=1111)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒絕存取。
+
+記錄時間 - 25/06/04, 15:07:06 
+處理程序: (ConnectADO:Provider=SQLOLEDB;Data Source=192.168.1.101;Initial Catalog=BK35MENU;User ID=idsa;Password=1111)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒絕存取。
+
+記錄時間 - 25/06/04, 15:37:46 
+處理程序: (ConnectADO:Provider=SQLOLEDB;Data Source=192.168.1.101;Initial Catalog=BK35MENU;User ID=idsa;Password=1111)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒絕存取。
+
+記錄時間 - 25/10/03, 14:32:29 
+處理程序: (ConnectADO:Provider=SQLOLEDB;Data Source=192.168.1.101;Initial Catalog=BK35MENU;User ID=idsa;Password=1111)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒絕存取。
+
+記錄時間 - 25/10/03, 14:33:39 
+處理程序: (ConnectADO:Provider=SQLOLEDB;Data Source=192.168.1.101;Initial Catalog=BK35MENU;User ID=idsa;Password=1111)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒絕存取。
+
+記錄時間 - 25/10/03, 15:17:08 
+處理程序: (ConnectADO:Provider=SQLOLEDB;Data Source=192.168.1.101;Initial Catalog=BK35MENU;User ID=idsa;Password=1111)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒絕存取。
+
+記錄時間 - 25/11/03, 19:19:39 
+處理程序: (WriteIDMenuLog)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionWrite (send()).]一般網路錯誤。 查閱您的網路文件。
+
+記錄時間 - 26/01/02, 10:37:34 
+處理程序: (ConnectADO:Provider=SQLOLEDB;Data Source=192.168.1.101;Initial Catalog=BK35MENU;User ID=idsa;Password=1111)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒絕存取。
+
+記錄時間 - 26/01/02, 10:38:52 
+處理程序: (ConnectADO:Provider=SQLOLEDB;Data Source=192.168.1.101;Initial Catalog=BK35MENU;User ID=idsa;Password=1111)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒絕存取。
+
+記錄時間 - 26/01/27, 14:08:38 
+處理程序: (ConnectADO:Provider=SQLOLEDB;Data Source=192.168.1.101;Initial Catalog=BK35MENU;User ID=idsa;Password=1111)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒絕存取。
+
+記錄時間 - 26/01/27, 14:48:49 
+處理程序: (ConnectADO:Provider=SQLOLEDB;Data Source=192.168.1.101;Initial Catalog=BK35MENU;User ID=idsa;Password=1111)
+執行錯誤, 代碼: -2147467259
+訊息: 
+     [DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒絕存取。
+
